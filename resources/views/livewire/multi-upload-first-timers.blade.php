@@ -9,7 +9,7 @@
      
         <div class="step-one">
             <div class="card">
-                <div class="card-header bg-secondary text-white">STEP 1/3 - First Timer Details</div>
+                <div class="card-header bg-secondary text-white">STEP 1/3 - First Timer Information</div>
                 <div class="card-body text-left text-xs font-medium text-gray-500 uppercase tracking-wider">
                     <div class="row">
                         <div class="col-md-3">
